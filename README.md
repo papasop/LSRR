@@ -32,6 +32,8 @@ The code validates:
 | `README.md`    | This file. Overview and instructions. |
 
 
+https://doi.org/10.5281/zenodo.16722682
+Local Symmetry and Residual Decomposition of (s) Near Nontrivial Zeros
 
 
 
